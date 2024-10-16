@@ -1,0 +1,19 @@
+nav {
+    z-index: 99999;
+}
+nav a:hover {
+    color: blue !important;
+}
+.secation1 {
+    background-image: url(https://www.w3schools.com/w3images/la.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn {
+    z-index: 3;
+}
+.card img {
+    width: 100%;
+    height: 100%;
+}
